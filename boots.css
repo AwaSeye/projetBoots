@@ -1,0 +1,53 @@
+
+.principal
+{
+	border: 2px solid black; padding: 10px; height: 672px; margin-left: auto; margin-right: auto;
+}
+.p1
+{ 
+	border: 2px solid blue; padding: 10px; height: 80px; margin-left: auto; margin-right: auto;
+}
+.p2
+{ 
+	border: 2px solid blue; padding: 10px; height: 40px; margin-left: 390px; margin-top: 25px;
+}
+.p31
+{ 
+	border: 2px solid blue; padding: 10px; height: 400px; margin-top: 30px; margin-left: 40px;
+}
+.p32
+{ 
+	border: 2px solid blue; padding: 10px; height: 400px; margin-top: 30px;
+}
+.p321
+{ 
+	border: 2px solid black; padding: 10px; height: 100px; margin-left: auto; margin-right: auto; margin-top: 5px;
+}
+.p3211
+{ 
+	border: 2px solid green; padding: 10px; height: 70px; margin-left: 340px; margin-right: auto; margin-top: -75px; margin-bottom: auto;
+}
+.p322
+{ 
+	border: 2px solid black; padding: 10px; height: 250px; margin-left: auto; margin-right: auto; margin-top: 20px;
+}
+.p3221
+{ 
+	border: 2px solid yellow; padding: 10px; height: 170px; margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto;
+}
+.p33
+{ 
+	border: 2px solid blue; padding: 10px; height: 400px; margin-top: 30px;
+}
+.p331
+{ 
+	border: 2px solid green; padding: 10px; height: 150px; margin-left: auto; margin-right: auto;
+}
+.p4
+{ 
+	border: 2px solid blue; padding: 10px; height: 40px; margin-left: auto; margin-right: auto; margin-top: 25px; margin-bottom: 20px; 
+}
+.span
+{
+	display: flex;
+}
